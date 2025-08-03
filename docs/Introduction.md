@@ -6,6 +6,8 @@ slug: /
 
 ![Introduction.webp](/assets/Introduction/Introduction.webp)
 
+#### Available on [Fab](https://www.fab.com/listings/c4688759-ca4d-4205-b283-a2e9144348ce)
+
 > This plugin enables you to **link additional tooltips to text within tooltip content**.  
 > Deliver complex game information progressively, allowing players to explore information at their desired depth through an extensible system that works across all UI elements.
 
