@@ -2,6 +2,8 @@
 sidebar_position: 1
 slug: /
 ---
+![[Main.webp]]
+
 ![[Introduction.webp|LayeredTooltip Documentation/LayeredTooltip Documentation.webp]]
 
 > This plugin enables you to **link additional tooltips to text within tooltip content**.  
