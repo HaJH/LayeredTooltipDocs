@@ -2,7 +2,6 @@
 sidebar_position: 1
 ---
 
-
 > Supports Unreal Engine 5.5 and later versions.
 
 #### Installing the Plugin

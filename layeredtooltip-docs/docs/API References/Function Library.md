@@ -1,5 +1,6 @@
-### Function Library
-
+---
+sidebar_position: 1
+---
 > `ULayeredTooltipFunctionLibrary` is a Blueprint function library that provides access to all tooltip system features.
 
 #### Registration & Management

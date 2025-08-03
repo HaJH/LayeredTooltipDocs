@@ -1,6 +1,8 @@
 ---
 sidebar_position: 1
 ---
+> Using Rich Text Block and String Table
+
 1. **Add Rich Text Block**
     
     1. Add a RichTextBlock in the Widget Designer. ![[RichTextBlock.webp|LayeredTooltip Documentation/LayeredTooltip Documentation-6.webp]]

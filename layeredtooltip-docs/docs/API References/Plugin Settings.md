@@ -1,5 +1,6 @@
-### Plugin Settings
-
+---
+sidebar_position: 2
+---
 > You can manage overall plugin settings in `Project Settings → Plugins → LayeredTooltip Settings`.
 
 #### Essential Settings for Basic Use
