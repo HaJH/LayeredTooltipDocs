@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 #### Using Payloads in Tooltip Data
 
 > Use `TriggerPayload` to pass complex object data to tooltips.

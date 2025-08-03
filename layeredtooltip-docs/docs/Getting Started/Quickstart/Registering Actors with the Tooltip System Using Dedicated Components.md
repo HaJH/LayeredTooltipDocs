@@ -23,4 +23,4 @@ sidebar_position: 3
    ![[Registering Actors with -20250803111344181.webp|LayeredTooltip Documentation/LayeredTooltip Documentation-20250731002724536.webp]]
     
 7. The Actor now displays tooltips. Use the `bOverrideTooltipPositionInViewport` flag to control tooltip positioning. 
-   ![[docs/Getting Started/Quickstart/Registering Actors with the Tooltip System Using Dedicated Components/Registering Any Object with the Tooltip System.webp|LayeredTooltip Documentation/LayeredTooltip Documentation-20250731013925873.webp]]
+   ![[docs/assets/Registering Actors with the Tooltip System Using Dedicated Components/Registering Any Object with the Tooltip System.webp|LayeredTooltip Documentation/LayeredTooltip Documentation-20250731013925873.webp]]

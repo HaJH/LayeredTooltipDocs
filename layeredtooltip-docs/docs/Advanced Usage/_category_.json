@@ -1,0 +1,7 @@
+{
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description":"Extend plugin functionality by implementing interfaces."
+  }
+}

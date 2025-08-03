@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 #### Setting Priority Triggers
 
 > Objects set as priority triggers always display tooltips regardless of mouse-over status. Use when you want to manually display specific tooltips.

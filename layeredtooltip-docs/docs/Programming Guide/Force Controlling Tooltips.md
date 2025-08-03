@@ -1,3 +1,6 @@
+---
+sidebar_position: 4
+---
 #### Force Controlling Tooltips
 
 > Functions for immediately displaying or hiding tooltips, or directly controlling the tooltip system.

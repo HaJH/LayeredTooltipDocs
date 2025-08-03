@@ -1,17 +1,16 @@
-### Custom Tooltip Widget
-
+> Fully customize tooltip appearance and interaction behavior.
 > You can create custom tooltip appearance and behavior by implementing the `ILayeredTooltipWidget` interface.
 
 #### Implementing the Interface
 
 **Blueprint Implementation:**
 
-![[docs/LayeredTooltip Documentation/4. Advanced Usage/Custom Tooltip Widget/Custom Tooltip Widget-20250802145617328.webp]] ![[docs/LayeredTooltip Documentation/4. Advanced Usage/Custom Tooltip Widget/Custom Tooltip Widget-20250802145931001.webp]]
+![[Custom Tooltip Widget-20250802145617328.webp]] ![[Custom Tooltip Widget-20250802145931001.webp]]
 
 - Add the `ILayeredTooltipWidget` interface in `Class Settings → Interfaces → Implemented Interfaces`
 - Implement each interface function in Blueprint
 
-![[docs/LayeredTooltip Documentation/4. Advanced Usage/Custom Tooltip Widget/Custom Tooltip Widget-20250802145119869.webp]]
+![[Custom Tooltip Widget-20250802145119869.webp]]
 
 **C++ Implementation:**
 
@@ -136,4 +135,4 @@ void UMyCustomTooltipWidget::NativeConstruct()
 
 #### Register in Plugin Settings
 
-![[docs/LayeredTooltip Documentation/3. Best Practices/Dynamically Configuring Tooltip Widgets Using Metadata/Dynamically Configuring Tooltip Widgets Using Metadata_1.webp]] Set your custom widget class in `Project Settings → Plugins → LayeredTooltip Settings → Layered Tooltip Widget Class`.
+![[Dynamically Configuring Tooltip Widgets Using Metadata_1.webp]] Set your custom widget class in `Project Settings → Plugins → LayeredTooltip Settings → Layered Tooltip Widget Class`.

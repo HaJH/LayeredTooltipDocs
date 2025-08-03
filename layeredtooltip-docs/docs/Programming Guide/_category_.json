@@ -1,0 +1,7 @@
+{
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "This section explains how to control the plugin through Blueprints. All Blueprint functions are equally accessible via C++ code."
+  }
+}

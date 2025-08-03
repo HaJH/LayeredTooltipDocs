@@ -1,5 +1,4 @@
-#### Custom Tooltip Object
-
+> Add tooltip functionality to non-widget objects (Actors, Components, etc.)
 > You can create custom tooltip trigger logic by implementing the `ILayeredTooltipObject` interface.
 
 #### Restrictions

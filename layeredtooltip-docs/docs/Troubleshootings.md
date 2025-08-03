@@ -1,3 +1,6 @@
+---
+sidebar_position: 8
+---
 ### Troubleshooting
 
 > Common issues and solutions for the LayeredTooltip system.

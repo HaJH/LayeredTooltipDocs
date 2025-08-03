@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 #### Registering Widgets via Blueprint
 
 > Register widgets with the tooltip system through Blueprints without modifying widget design, or register dynamic widgets for runtime tooltip management.
@@ -5,7 +8,7 @@
 ##### Basic Usage
 
 1. **Widget Registration**
-    ![[docs/LayeredTooltip Documentation/2. Programming Guide/Registering Widgets via Blueprint/Register any widgets via blueprint-20250801134338804.webp]]
+    ![[Register any widgets via blueprint-20250801134338804.webp]]
     - Use the `RegisterWidgetAsTooltipTrigger` function to register widgets.
     - Register specific widgets within a widget Blueprint, or register the widget itself using a Self reference.
     - Widgets must be added to the layout before registration.
@@ -28,7 +31,7 @@
 
 ##### Checking Registration Status
 
-![[docs/LayeredTooltip Documentation/2. Programming Guide/Registering Widgets via Blueprint/Register any widgets via blueprint-20250801223809156.webp]]
+![[Register any widgets via blueprint-20250801223809156.webp]]
 
 ```cpp
 bool bIsRegistered = ULayeredTooltipFunctionLibrary::IsRegisteredAsTooltipTrigger(MyWidget);

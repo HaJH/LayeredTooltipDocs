@@ -1,6 +1,9 @@
+---
+sidebar_position: 2
+---
 #### Registering Any Object with the Tooltip System
 
-![[docs/Getting Started/Quickstart/Registering Actors with the Tooltip System Using Dedicated Components/Registering Any Object with the Tooltip System.webp]]
+![[docs/assets/Registering Actors with the Tooltip System Using Dedicated Components/Registering Any Object with the Tooltip System.webp]]
 
 > Register any object implementing the ILayeredTooltipObject interface with the tooltip system. Reference `ULayeredTooltipDefaultComponent` for implementation guidance.
 
@@ -46,7 +49,7 @@ static bool IsTooltipPinned(const UObject* TriggerObject);
 
 ##### Reference: ULayeredTooltipDefaultComponent
 
-![[docs/LayeredTooltip Documentation/2. Programming Guide/Registering Any Object with the Tooltip System/Registering Any Object with the Tooltip System.webp]] 
+![[docs/assets/Registering Any Object with the Tooltip System/Registering Any Object with the Tooltip System.webp]] 
 A sample component included with the plugin that provides basic Actor tooltip functionality:
 
 - Automatically connects to the Actor's first collision-enabled component

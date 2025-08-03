@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 #### Auto-Adding Rich Text Decorators via Widget Base Classes
 
 > Use base classes to automatically enable nested tooltips in all project widgets.

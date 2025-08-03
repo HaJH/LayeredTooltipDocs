@@ -1,24 +1,27 @@
+---
+sidebar_position: 2
+---
 #### Dynamically Configuring Tooltip Widgets Using Metadata
 
 > Use metadata to display various content types with a single tooltip widget.
 
-![[docs/LayeredTooltip Documentation/3. Best Practices/Dynamically Configuring Tooltip Widgets Using Metadata/Dynamically Configuring -20250803111537472.webp]]
+![[Dynamically Configuring -20250803111537472.webp]]
 
 ##### Registering Custom Widget Classes
 
 Change the widget class in plugin settings.
 
-![[docs/LayeredTooltip Documentation/3. Best Practices/Dynamically Configuring Tooltip Widgets Using Metadata/Dynamically Configuring Tooltip Widgets Using Metadata_1.webp]]
+![[Dynamically Configuring Tooltip Widgets Using Metadata_1.webp]]
 
 ##### Dynamic Registration
 
 **Metadata Configuration**
 
-![[docs/LayeredTooltip Documentation/3. Best Practices/Dynamically Configuring Tooltip Widgets Using Metadata/Dynamically Configuring -20250803111537492.webp]]
+![[Dynamically Configuring -20250803111537492.webp]]
 
 **Metadata-Based Styling in Tooltip Widgets**
 
-![[docs/LayeredTooltip Documentation/3. Best Practices/Dynamically Configuring Tooltip Widgets Using Metadata/Dynamically Configuring -20250803111537513.webp]]
+![[Dynamically Configuring -20250803111537513.webp]]
 
 ##### Code Examples
 
