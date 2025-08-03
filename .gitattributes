@@ -1,0 +1,28 @@
+# Markdown 파일은 텍스트로 처리
+*.md text
+
+# JSON 파일은 텍스트로 처리
+*.json text
+
+# 이미지 파일은 LFS로 관리
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.gif filter=lfs diff=lfs merge=lfs -text
+*.svg filter=lfs diff=lfs merge=lfs -text
+*.webp filter=lfs diff=lfs merge=lfs -text
+*.avif filter=lfs diff=lfs merge=lfs -text
+*.bmp filter=lfs diff=lfs merge=lfs -text
+*.tiff filter=lfs diff=lfs merge=lfs -text
+
+# PDF 파일은 LFS로 관리
+*.pdf filter=lfs diff=lfs merge=lfs -text
+
+# 동영상 및 오디오 파일은 LFS로 관리
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+
+# 기타 큰 파일은 LFS로 관리
+*.zip filter=lfs diff=lfs merge=lfs -text

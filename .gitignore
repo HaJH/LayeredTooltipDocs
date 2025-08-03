@@ -1,0 +1,36 @@
+# Obsidian-specific files
+.obsidian/app.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json
+.obsidian/appearance.json
+
+*/.obsidian/app.json
+*/.obsidian/workspace-mobile.json
+*/.obsidian/workspace.json
+*/.obsidian/appearance.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+.trash/
+
+# # Community plugins' cache or temporary data
+# .obsidian/plugins/*/data.json
+# .obsidian/plugins/*/cache.json
+# .obsidian/plugins/*/main.js
+# .obsidian/plugins/*/manifest.json
+# .obsidian/plugins/*/styles.css
+
+# Temporary or lock files
+*.temp
+*.tmp
+*.swp
+*.lock
+
+# Backup or sync tools
+*.bak
+*.sync-conflict-*
+.obsidian/plugins/obsidian-livesync/data.json
+.obsidian/plugins/obsidian-livesync/data.json
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
