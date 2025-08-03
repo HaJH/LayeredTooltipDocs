@@ -36,6 +36,4 @@ sidebar_position: 1
 
 > A comprehensive sample project demonstrates the tooltip system's structure and usage. The sample includes Blueprints, tooltip UI configuration examples, and related String Tables and Data Tables.
 
-#### **Sample Project:** [Download](https://drive.google.com/file/d/1KXXJ6dQuyqh8ZUkiq7qAvEDdRokebBEg/view?usp=sharing) | [GitHub](https://github.com/HaJH/LayeredTooltipSample/releases/tag/v1.0_ue5.5)
-
-#### **Playable Demo:** [Download](https://drive.google.com/file/d/1whF9vxrPeLvyydAoU8f4zokTZSpMLy3n/view?usp=sharing)
+[Download](https://drive.google.com/file/d/1KXXJ6dQuyqh8ZUkiq7qAvEDdRokebBEg/view?usp=sharing) | [GitHub](https://github.com/HaJH/LayeredTooltipSample/releases/tag/v1.0_ue5.5)

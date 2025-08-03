@@ -22,3 +22,5 @@ slug: /
 - **UObject-Level Extensibility**
 
 > Beyond Rich Text and widgets, manually register any UObject to control tooltip behavior. Trigger timing requires manual setup, with a convenient mouse-over component provided for Actors.
+
+#### **Playable Demo:** [Download](https://drive.google.com/file/d/1whF9vxrPeLvyydAoU8f4zokTZSpMLy3n/view?usp=sharing)
