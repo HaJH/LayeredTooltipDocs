@@ -5,7 +5,8 @@
 
 **Blueprint Implementation:**
 
-![[Custom Tooltip Widget-20250802145617328.webp]] ![[Custom Tooltip Widget-20250802145931001.webp]]
+![[Custom Tooltip Widget-20250802145617328.webp]] 
+![[Custom Tooltip Widget-20250802145931001.webp]]
 
 - Add the `ILayeredTooltipWidget` interface in `Class Settings → Interfaces → Implemented Interfaces`
 - Implement each interface function in Blueprint
