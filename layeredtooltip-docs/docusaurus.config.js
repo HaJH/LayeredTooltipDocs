@@ -51,8 +51,8 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/HaJH/LayeredTooltipDocs/tree/main/layeredtooltip-docs',
+          // editUrl:
+          //   'https://github.com/HaJH/LayeredTooltipDocs/tree/main/layeredtooltip-docs',
         },
         blog: false,
         theme: {
