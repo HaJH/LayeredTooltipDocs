@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 
 > Supports Unreal Engine 5.5 and later versions.
 
@@ -6,13 +10,13 @@
 1. Purchase the plugin from Fab and install it in your engine.
 2. After installation, verify activation in the **UI** category under `Edit → Plugins`.
 
-![[docs/LayeredTooltip Documentation/1. Getting Started/Installation/Installation_5.webp|LayeredTooltip Documentation/LayeredTooltip Documentation-1.webp]]
+![[Installation_5.webp|LayeredTooltip Documentation/LayeredTooltip Documentation-1.webp]]
 
-![[docs/LayeredTooltip Documentation/1. Getting Started/Installation/Installation.webp|LayeredTooltip Documentation/LayeredTooltip Documentation-2.webp]]
+![[Installation.webp|LayeredTooltip Documentation/LayeredTooltip Documentation-2.webp]]
 
 #### Configuring the Plugin
 
-1. Access plugin settings at `Edit → Project Settings → Plugins → LayeredTooltip Settings`. ![[docs/LayeredTooltip Documentation/1. Getting Started/Installation/Installation_6.webp|LayeredTooltip Documentation/LayeredTooltip Documentation-3.webp]] ![[docs/LayeredTooltip Documentation/1. Getting Started/Installation/Installation_7.webp|LayeredTooltip Documentation/LayeredTooltip Documentation-4.webp]]
+1. Access plugin settings at `Edit → Project Settings → Plugins → LayeredTooltip Settings`. ![[Installation_6.webp|LayeredTooltip Documentation/LayeredTooltip Documentation-3.webp]] ![[Installation_7.webp|LayeredTooltip Documentation/LayeredTooltip Documentation-4.webp]]
 
 #### Viewing Plugin Content
 
@@ -22,7 +26,7 @@
 
 1. Enable `Content Browser Settings → Show Plugin Content`
     
-    > ![[docs/LayeredTooltip Documentation/1. Getting Started/Installation/Installation_8.webp|LayeredTooltip Documentation/LayeredTooltip Documentation-5.webp]]
+    > ![[Installation_8.webp|LayeredTooltip Documentation/LayeredTooltip Documentation-5.webp]]
     
 
 #### Sample Project

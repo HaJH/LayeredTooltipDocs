@@ -1,0 +1,8 @@
+{
+  "label": "Quickstart",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "This section covers the minimal setup process for displaying tooltips without writing any code. Three methods are provided that can be applied without Blueprints or C++ code."
+  }
+}
