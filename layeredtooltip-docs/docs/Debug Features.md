@@ -31,7 +31,9 @@ Check `Project Settings → Plugins → LayeredTooltip Settings → Layered Tool
 
 #### Checking Debug Information
 
-**On-Screen Debug Information:** ![[5.Debug Features-20250802153218307.webp]]
+**On-Screen Debug Information:** 
+
+![[5.Debug Features-20250802153218307.webp]]
 
 ```
 (Layered Tooltip Trigger - Widget Count: 5, Object Count: 3)
@@ -64,8 +66,13 @@ Settings->bLayeredTooltipDebug = true;
 
 **Stat Display:**
 
-1. Enter `Stat LayeredTooltip` in console window ![[5.Debug Features-20250802153329922.webp]]
-2. Check performance metrics ![[5.Debug Features-20250802153434841.webp]]
+1. Enter `Stat LayeredTooltip` in console window 
+   
+   ![[5.Debug Features-20250802153329922.webp]]
+   
+2. Check performance metrics 
+   
+   ![[5.Debug Features-20250802153434841.webp]]
 
 #### Troubleshooting
 

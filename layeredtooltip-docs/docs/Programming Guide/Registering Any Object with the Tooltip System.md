@@ -50,6 +50,7 @@ static bool IsTooltipPinned(const UObject* TriggerObject);
 ##### Reference: ULayeredTooltipDefaultComponent
 
 ![[docs/assets/Registering Any Object with the Tooltip System/Registering Any Object with the Tooltip System.webp]] 
+
 A sample component included with the plugin that provides basic Actor tooltip functionality:
 
 - Automatically connects to the Actor's first collision-enabled component

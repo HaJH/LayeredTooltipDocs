@@ -16,7 +16,9 @@ sidebar_position: 1
 #### Configuring the Plugin
 
 1. Access plugin settings at `Edit → Project Settings → Plugins → LayeredTooltip Settings`. 
+   
 ![[Installation_6.webp]] 
+
 ![[Installation_7.webp]]
 
 #### Viewing Plugin Content

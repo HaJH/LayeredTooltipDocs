@@ -8,7 +8,9 @@ sidebar_position: 1
 ##### Basic Usage
 
 1. **Widget Registration**
+   
     ![[Register any widgets via blueprint-20250801134338804.webp]]
+    
     - Use the `RegisterWidgetAsTooltipTrigger` function to register widgets.
     - Register specific widgets within a widget Blueprint, or register the widget itself using a Self reference.
     - Widgets must be added to the layout before registration.

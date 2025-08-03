@@ -6,6 +6,7 @@
 **Blueprint Implementation:**
 
 ![[Custom Tooltip Widget-20250802145617328.webp]] 
+
 ![[Custom Tooltip Widget-20250802145931001.webp]]
 
 - Add the `ILayeredTooltipWidget` interface in `Class Settings → Interfaces → Implemented Interfaces`
@@ -136,4 +137,6 @@ void UMyCustomTooltipWidget::NativeConstruct()
 
 #### Register in Plugin Settings
 
-![[Dynamically Configuring Tooltip Widgets Using Metadata_1.webp]] Set your custom widget class in `Project Settings → Plugins → LayeredTooltip Settings → Layered Tooltip Widget Class`.
+![[Dynamically Configuring Tooltip Widgets Using Metadata_1.webp]] 
+
+Set your custom widget class in `Project Settings → Plugins → LayeredTooltip Settings → Layered Tooltip Widget Class`.

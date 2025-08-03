@@ -5,11 +5,17 @@
 **Blueprint Implementation:**
 
 1. Add the `LayeredTooltipTextProvider` interface in the Blueprint's `Class Settings`. 
+   
    ![[Custom Text Provider-20250802151312529.webp]]
+   
 2. Implement interface functions in Blueprint 
+   
    ![[Custom Text Provider-20250802151428204.webp]] 
+   
    ![[Custom Text Provider-20250802151510647.webp]] 
+   
    ![[Custom Text Provider-20250802151456795.webp]]
+   
 
 **C++ Implementation:**
 
@@ -26,7 +32,9 @@ public:
 
 ##### Registration in Plugin Settings
 
-Configure the custom text provider class in `Project Settings → Plugins → LayeredTooltip Settings → Tooltip Text Provider Class`. ![[Custom Text Provider-20250802151656838.webp]]
+Configure the custom text provider class in `Project Settings → Plugins → LayeredTooltip Settings → Tooltip Text Provider Class`. 
+
+![[Custom Text Provider-20250802151656838.webp]]
 
 ##### Advanced Text Processing Examples
 
