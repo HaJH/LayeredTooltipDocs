@@ -11,7 +11,7 @@ sidebar_position: 7
 
 Check `Project Settings → Plugins → LayeredTooltip Settings → Layered Tooltip Debug`.
 
-![[5.Debug Features-20250802152905531.webp]]
+![5.Debug Features-20250802152905531.webp](/assets/Debug%20Features/5.Debug%20Features-20250802152905531.webp)
 
 #### Debug Features
 
@@ -21,7 +21,7 @@ Check `Project Settings → Plugins → LayeredTooltip Settings → Layered Tool
 - Display tooltip trigger object information on screen
 - Visualize active tooltip hierarchy structure
 
-![[5.Debug Features-20250802153011109.webp]]
+![5.Debug Features-20250802153011109.webp](/assets/Debug%20Features/5.Debug%20Features-20250802153011109.webp)
 
 **Log Output:**
 
@@ -33,7 +33,7 @@ Check `Project Settings → Plugins → LayeredTooltip Settings → Layered Tool
 
 **On-Screen Debug Information:** 
 
-![[5.Debug Features-20250802153218307.webp]]
+![5.Debug Features-20250802153218307.webp](/assets/Debug%20Features/5.Debug%20Features-20250802153218307.webp)
 
 ```
 (Layered Tooltip Trigger - Widget Count: 5, Object Count: 3)
@@ -68,11 +68,11 @@ Settings->bLayeredTooltipDebug = true;
 
 1. Enter `Stat LayeredTooltip` in console window 
    
-   ![[5.Debug Features-20250802153329922.webp]]
+   ![5.Debug Features-20250802153329922.webp](/assets/Debug%20Features/5.Debug%20Features-20250802153329922.webp)
    
 2. Check performance metrics 
    
-   ![[5.Debug Features-20250802153434841.webp]]
+   ![5.Debug Features-20250802153434841.webp](/assets/Debug%20Features/5.Debug%20Features-20250802153434841.webp)
 
 #### Troubleshooting
 

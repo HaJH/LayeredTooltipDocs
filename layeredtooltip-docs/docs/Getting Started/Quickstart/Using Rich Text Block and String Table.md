@@ -7,21 +7,21 @@ sidebar_position: 1
     
     1. Add a RichTextBlock in the Widget Designer. 
        
-       ![[RichTextBlock.webp]]
+       ![RichTextBlock.webp](/assets/Using%20Rich%20Text%20Block%20and%20String%20Table/RichTextBlock.webp)
         
         > Alternatively, use LayeredTooltipRichTextBlock to skip steps 2 and 3.
         
     2. In the Details tab of the added RichTextBlock, locate Decorator Classes. 
     
-    ![[RichTextBlock-1.webp]]
+    ![RichTextBlock-1.webp](/assets/Using%20Rich%20Text%20Block%20and%20String%20Table/RichTextBlock-1.webp)
     
     3. Add LayeredTooltipDecorator. 
     
-    ![[RichTextBlock-2.webp]]
+    ![RichTextBlock-2.webp](/assets/Using%20Rich%20Text%20Block%20and%20String%20Table/RichTextBlock-2.webp)
     
     4. Assign an appropriate TextStyleSet to the RichTextBlock. 
     
-    ![[RichTextBlock-3.webp]]
+    ![RichTextBlock-3.webp](/assets/Using%20Rich%20Text%20Block%20and%20String%20Table/RichTextBlock-3.webp)
     
         
         > We'll use the pre-configured DT_LayeredTooltip_Default_RichText for this example. Tag configuration for tooltips will be covered below.
@@ -30,11 +30,11 @@ sidebar_position: 1
     
     1. Add the `<Tooltip>` tag to your text. 
        
-    ![[RichTextBlock-4.webp]]
+    ![RichTextBlock-4.webp](/assets/Using%20Rich%20Text%20Block%20and%20String%20Table/RichTextBlock-4.webp)
     
     2. Now hovering over the tagged word will display a tooltip. 
        
-    ![[RichTextBlock-5.webp]]
+    ![RichTextBlock-5.webp](/assets/Using%20Rich%20Text%20Block%20and%20String%20Table/RichTextBlock-5.webp)
     
 3. **Preparing Tooltip Content**
     
@@ -42,28 +42,28 @@ sidebar_position: 1
     
     1. Modify the default String Table in Plugin Content. Open `ST_LayeredTooltip_Default` at `Plugins/LayeredTooltip/DefaultResources/`. 
        
-    ![[RichTextBlock-6.webp]]
+    ![RichTextBlock-6.webp](/assets/Using%20Rich%20Text%20Block%20and%20String%20Table/RichTextBlock-6.webp)
     
     2. Create a string key named `tooltip_plugin`. 
        
-    ![[RichTextBlock-7.webp]]
+    ![RichTextBlock-7.webp](/assets/Using%20Rich%20Text%20Block%20and%20String%20Table/RichTextBlock-7.webp)
     
     3. Add the string key to the text. Change from `<Tooltip>` to `<Tooltip TextId="tooltip_plugin">` to include the TextId. 
        
-    ![[RichTextBlock-8.webp]]
+    ![RichTextBlock-8.webp](/assets/Using%20Rich%20Text%20Block%20and%20String%20Table/RichTextBlock-8.webp)
         
         > Tags like `Tooltip` and `TextId` can be customized through `Plugin Settings → Tooltip Tags, Tooltip Text Metadata Key`.
         
 4. **Tooltip content is now displayed.** 
    
-![[RichTextBlock-9.webp]]
+![RichTextBlock-9.webp](/assets/Using%20Rich%20Text%20Block%20and%20String%20Table/RichTextBlock-9.webp)
 
     
 5. **Implement nested tooltips by adding additional tags within tooltip content.** 
    
-![[RichTextBlock-10.webp]] 
+![RichTextBlock-10.webp](/assets/Using%20Rich%20Text%20Block%20and%20String%20Table/RichTextBlock-10.webp) 
 
-![[RichTextBlock-11.webp]]
+![RichTextBlock-11.webp](/assets/Using%20Rich%20Text%20Block%20and%20String%20Table/RichTextBlock-11.webp)
     
 > The above content is defined in the String Table as follows: 
 

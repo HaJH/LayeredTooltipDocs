@@ -2,9 +2,9 @@
 sidebar_position: 1
 slug: /
 ---
-![[Main.webp]]
+![Main.webp](/assets/Main.webp)
 
-![[Introduction.webp]]
+![Introduction.webp](/assets/Introduction/Introduction.webp)
 
 > This plugin enables you to **link additional tooltips to text within tooltip content**.  
 > Deliver complex game information progressively, allowing players to explore information at their desired depth through an extensible system that works across all UI elements.

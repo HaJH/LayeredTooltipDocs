@@ -6,28 +6,28 @@ sidebar_position: 3
 
 1. Create an Actor. 
    
-   ![[Registering Actors with -20250803111344005.webp]]
+   ![Registering Actors with -20250803111344005.webp](/assets/Registering%20Actors%20with%20the%20Tooltip%20System%20Using%20Dedicated%20Components/Registering%20Actors%20with%20-20250803111344005.webp)
     
 2. Add any `PrimitiveComponent`. A Cube is used in this example.
     
 3. Ensure collision is enabled for the `PrimitiveComponent`. Collision Query must be enabled for mouse-over detection. 
    
-![[Registering Actors with -20250803111344024.webp]]
+![Registering Actors with -20250803111344024.webp](/assets/Registering%20Actors%20with%20the%20Tooltip%20System%20Using%20Dedicated%20Components/Registering%20Actors%20with%20-20250803111344024.webp)
     
 4. Add `LayeredTooltipDefaultComponent` to the Actor. 
    
-![[Registering Actors with -20250803111344086.webp]]
+![Registering Actors with -20250803111344086.webp](/assets/Registering%20Actors%20with%20the%20Tooltip%20System%20Using%20Dedicated%20Components/Registering%20Actors%20with%20-20250803111344086.webp)
     
     > This component automatically finds the Actor's first collision-enabled `PrimitiveComponent` and handles mouse-over events.
     
 5. Select the component and configure tooltip information in the Details tab. 
    
-![[Registering Actors with -20250803111344163.webp]]
+![Registering Actors with -20250803111344163.webp](/assets/Registering%20Actors%20with%20the%20Tooltip%20System%20Using%20Dedicated%20Components/Registering%20Actors%20with%20-20250803111344163.webp)
     
 6. To use this functionality, the `PlayerController` must have `bEnableMouseOverEvents` enabled. 
    
-   ![[Registering Actors with -20250803111344181.webp]]
+   ![Registering Actors with -20250803111344181.webp](/assets/Registering%20Actors%20with%20the%20Tooltip%20System%20Using%20Dedicated%20Components/Registering%20Actors%20with%20-20250803111344181.webp)
     
 7. The Actor now displays tooltips. Use the `bOverrideTooltipPositionInViewport` flag to control tooltip positioning. 
    
-   ![[docs/assets/Registering Actors with the Tooltip System Using Dedicated Components/Registering Any Object with the Tooltip System.webp]]
+   ![Registering Any Object with the Tooltip System.webp](/assets/Registering%20Actors%20with%20the%20Tooltip%20System%20Using%20Dedicated%20Components/Registering%20Any%20Object%20with%20the%20Tooltip%20System.webp)

@@ -9,7 +9,7 @@ sidebar_position: 1
 
 1. **Widget Registration**
    
-    ![[Register any widgets via blueprint-20250801134338804.webp]]
+    ![Register any widgets via blueprint-20250801134338804.webp](/assets/Registering%20Widgets%20via%20Blueprint/Register%20any%20widgets%20via%20blueprint-20250801134338804.webp)
     
     - Use the `RegisterWidgetAsTooltipTrigger` function to register widgets.
     - Register specific widgets within a widget Blueprint, or register the widget itself using a Self reference.
@@ -33,7 +33,7 @@ sidebar_position: 1
 
 ##### Checking Registration Status
 
-![[Register any widgets via blueprint-20250801223809156.webp]]
+![Register any widgets via blueprint-20250801223809156.webp](/assets/Registering%20Widgets%20via%20Blueprint/Register%20any%20widgets%20via%20blueprint-20250801223809156.webp)
 
 ```cpp
 bool bIsRegistered = ULayeredTooltipFunctionLibrary::IsRegisteredAsTooltipTrigger(MyWidget);

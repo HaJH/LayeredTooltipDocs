@@ -5,14 +5,14 @@
 
 **Blueprint Implementation:**
 
-![[Custom Tooltip Widget-20250802145617328.webp]] 
+![Custom Tooltip Widget-20250802145617328.webp](/assets/Custom%20Tooltip%20Widget/Custom%20Tooltip%20Widget-20250802145617328.webp) 
 
-![[Custom Tooltip Widget-20250802145931001.webp]]
+![Custom Tooltip Widget-20250802145931001.webp](/assets/Custom%20Tooltip%20Widget/Custom%20Tooltip%20Widget-20250802145931001.webp)
 
 - Add the `ILayeredTooltipWidget` interface in `Class Settings → Interfaces → Implemented Interfaces`
 - Implement each interface function in Blueprint
 
-![[Custom Tooltip Widget-20250802145119869.webp]]
+![Custom Tooltip Widget-20250802145119869.webp](/assets/Custom%20Tooltip%20Widget/Custom%20Tooltip%20Widget-20250802145119869.webp)
 
 **C++ Implementation:**
 
@@ -137,6 +137,6 @@ void UMyCustomTooltipWidget::NativeConstruct()
 
 #### Register in Plugin Settings
 
-![[Dynamically Configuring Tooltip Widgets Using Metadata_1.webp]] 
+![Dynamically Configuring Tooltip Widgets Using Metadata_1.webp](/assets/Dynamically%20Configuring%20Tooltip%20Widgets%20Using%20Metadata/Dynamically%20Configuring%20Tooltip%20Widgets%20Using%20Metadata_1.webp) 
 
 Set your custom widget class in `Project Settings → Plugins → LayeredTooltip Settings → Layered Tooltip Widget Class`.

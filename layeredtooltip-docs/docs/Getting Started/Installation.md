@@ -9,17 +9,17 @@ sidebar_position: 1
 1. Purchase the plugin from Fab and install it in your engine.
 2. After installation, verify activation in the **UI** category under `Edit → Plugins`.
 
-![[Installation_5.webp]]
+![Installation_5.webp](/assets/Installation/Installation_5.webp)
 
-![[Installation.webp]]
+![Installation.webp](/assets/Installation/Installation.webp)
 
 #### Configuring the Plugin
 
 1. Access plugin settings at `Edit → Project Settings → Plugins → LayeredTooltip Settings`. 
    
-![[Installation_6.webp]] 
+![Installation_6.webp](/assets/Installation/Installation_6.webp) 
 
-![[Installation_7.webp]]
+![Installation_7.webp](/assets/Installation/Installation_7.webp)
 
 #### Viewing Plugin Content
 
@@ -29,7 +29,7 @@ sidebar_position: 1
 
 1. Enable `Content Browser Settings → Show Plugin Content`
     
-    > ![[Installation_8.webp]]
+    > ![Installation_8.webp](/assets/Installation/Installation_8.webp)
     
 
 #### Sample Project

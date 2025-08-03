@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 #### Registering Any Object with the Tooltip System
 
-![[docs/assets/Registering Actors with the Tooltip System Using Dedicated Components/Registering Any Object with the Tooltip System.webp]]
+![Registering Any Object with the Tooltip System.webp](/assets/Registering%20Actors%20with%20the%20Tooltip%20System%20Using%20Dedicated%20Components/Registering%20Any%20Object%20with%20the%20Tooltip%20System.webp)
 
 > Register any object implementing the ILayeredTooltipObject interface with the tooltip system. Reference `ULayeredTooltipDefaultComponent` for implementation guidance.
 
@@ -49,7 +49,7 @@ static bool IsTooltipPinned(const UObject* TriggerObject);
 
 ##### Reference: ULayeredTooltipDefaultComponent
 
-![[docs/assets/Registering Any Object with the Tooltip System/Registering Any Object with the Tooltip System.webp]] 
+![Registering Any Object with the Tooltip System.webp](/assets/Registering%20Actors%20with%20the%20Tooltip%20System%20Using%20Dedicated%20Components/Registering%20Any%20Object%20with%20the%20Tooltip%20System.webp) 
 
 A sample component included with the plugin that provides basic Actor tooltip functionality:
 
