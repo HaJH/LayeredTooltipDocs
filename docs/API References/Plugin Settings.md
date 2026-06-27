@@ -45,6 +45,18 @@ sidebar_position: 2
 - **Purpose:** Time until tooltip becomes pinned and clickable
 - **Adjustment:** Longer prevents accidental pinning; shorter enables quick interaction
 
+**Close Pinned On Cursor Leave**
+
+- **Default:** `false`
+- **Purpose:** When enabled, a pinned tooltip closes automatically once the cursor leaves the tooltip area (the trigger item, its tooltip, and any child tooltips), instead of waiting for a click on empty space.
+- **Behavior:** Only the layers the cursor has left are closed; outer layers stay open so you can keep navigating other child tooltips.
+
+**Pin Area Close Margin**
+
+- **Default:** `40` (viewport pixels)
+- **Purpose:** Extra margin added around the tooltip/trigger area before a pinned tooltip auto-closes. Larger values keep the tooltip open further past the edge, preventing flicker.
+- **Note:** Only used when **Close Pinned On Cursor Leave** is enabled.
+
 **Tooltip Default Z Order**
 
 - **Default:** `1000`
